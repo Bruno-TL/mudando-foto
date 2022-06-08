@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #ccc;
+    
+}
+
+header {
+    margin: 40px;
+    font-size: 20px;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 20px;
+    height: 30px;
+
+}
+
+button {
+    width: 40%;
+    border-radius: 10px;
+    border: none;
+
+    font-weight: 700;
+}
